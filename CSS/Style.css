@@ -1,0 +1,9 @@
+.Home{
+    background-image: url("../media/67663.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#gif{
+    display: none;
+}
